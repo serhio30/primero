@@ -36,7 +36,7 @@
 <body>
 	<form method="post" action="http://localhost/laravel1/public/">
 	   <input type="text" name="test" value=""/>
-	   <input type="submit" value="save" />
+	   <input type="submit" value="save me" />
 	</form>
 </body>
 </html>
